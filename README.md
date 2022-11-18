@@ -1,5 +1,5 @@
 # Coke-Pepsi-Classification
-
+ This module contains two classification models. One for cold drink brand classification, another for Cold drinks level classification in bottles.
 
 If you want to run the source code or .ipynb notebook files please change the directory paths according to your system after downloading.
 
